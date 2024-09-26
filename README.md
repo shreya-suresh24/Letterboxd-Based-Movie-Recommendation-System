@@ -1,2 +1,4 @@
-This project aims to create a personalized movie recommendation system by leveraging a user’s movie preferences from their Letterboxd account. The system utilizes a hybrid recommendation model, combining both content-based and collaborative filtering techniques to provide tailored movie suggestions. The primary data source is the Letterboxd API, which allows the system to retrieve a user's liked and highly-rated movies.
+This project implements a Hybrid Movie Recommendation System that leverages both collaborative filtering and content-based filtering techniques to provide personalized movie recommendations. The system fetches user preferences and movie details from the Letterboxd platform and uses the TMDB API for enriched movie metadata. Designed to enhance user experience, the recommendation engine adapts dynamically based on user interactions, making it a powerful tool for movie enthusiasts seeking tailored viewing suggestions.
+
+(Work in Progress)
 
